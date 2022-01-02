@@ -1,0 +1,106 @@
+[2021-12-27 20:28:45] [INFO]  * Restarting with stat
+[2021-12-27 20:28:46] [WARNING]  * Debugger is active!
+[2021-12-27 20:28:46] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:28:56] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:29:01] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:29:01] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00007
+[2021-12-27 20:29:01] [INFO] 127.0.0.1 - - [27/Dec/2021 20:29:01] "[35m[1mPOST /tryOrderList HTTP/1.1[0m" 500 -
+[2021-12-27 20:29:39] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-27 20:29:39] [INFO]  * Restarting with stat
+[2021-12-27 20:29:40] [WARNING]  * Debugger is active!
+[2021-12-27 20:29:40] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:29:46] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:29:46] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:29:46] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00007
+[2021-12-27 20:29:46] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-27 20:29:46] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00008
+[2021-12-27 20:29:46] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-27 20:29:46] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00009
+[2021-12-27 20:29:46] [INFO] 127.0.0.1 - - [27/Dec/2021 20:29:46] "POST /tryOrderList HTTP/1.1" 200 -
+[2021-12-27 20:30:24] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-27 20:30:25] [INFO]  * Restarting with stat
+[2021-12-27 20:30:26] [WARNING]  * Debugger is active!
+[2021-12-27 20:30:26] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:30:31] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:30:32] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:30:32] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00007
+[2021-12-27 20:30:32] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-27 20:30:32] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00008
+[2021-12-27 20:30:32] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-27 20:30:32] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00009
+[2021-12-27 20:30:32] [INFO] 127.0.0.1 - - [27/Dec/2021 20:30:32] "POST /tryOrderList HTTP/1.1" 200 -
+[2021-12-27 20:30:58] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-27 20:30:58] [INFO]  * Restarting with stat
+[2021-12-27 20:30:59] [WARNING]  * Debugger is active!
+[2021-12-27 20:30:59] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:31:04] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:31:07] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:31:07] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00007
+[2021-12-27 20:31:07] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-27 20:31:07] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00008
+[2021-12-27 20:31:07] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-27 20:31:07] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00009
+[2021-12-27 20:31:07] [INFO] 127.0.0.1 - - [27/Dec/2021 20:31:07] "POST /tryOrderList HTTP/1.1" 200 -
+[2021-12-27 20:31:53] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-27 20:31:53] [INFO]  * Restarting with stat
+[2021-12-27 20:31:54] [WARNING]  * Debugger is active!
+[2021-12-27 20:31:54] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:32:00] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:32:59] [INFO] UPDATE user SET phone=13612345678, address=¹ã¶«Ê¡¹ãÖÝÊÐ´óÉ½ÖÐÑ§ WHERE u_id=00001
+[2021-12-27 20:32:59] [INFO] 127.0.0.1 - - [27/Dec/2021 20:32:59] "[35m[1mPOST /changeAddress HTTP/1.1[0m" 500 -
+[2021-12-27 20:33:44] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-27 20:33:44] [INFO]  * Restarting with stat
+[2021-12-27 20:33:45] [WARNING]  * Debugger is active!
+[2021-12-27 20:33:45] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:33:50] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:33:52] [INFO] UPDATE user SET phone=13612345678, address=¹ã¶«Ê¡¹ãÖÝÊÐ´óÉ½ÖÐÑ§ WHERE u_id=00001
+[2021-12-27 20:33:52] [INFO] 127.0.0.1 - - [27/Dec/2021 20:33:52] "POST /changeAddress HTTP/1.1" 200 -
+[2021-12-27 20:35:03] [INFO] SELECT * FROM shopping_cart WHERE u_id = 00001
+[2021-12-27 20:35:03] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00001
+[2021-12-27 20:35:03] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-27 20:35:03] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-27 20:35:03] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-27 20:35:03] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-27 20:35:03] [INFO] 127.0.0.1 - - [27/Dec/2021 20:35:03] "GET /shoppingCart?u_id=00001 HTTP/1.1" 200 -
+[2021-12-27 20:35:20] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-27 20:35:20] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00002
+[2021-12-27 20:35:20] [INFO] SELECT * FROM user WHERE u_id = 00001
+[2021-12-27 20:35:20] [INFO] 127.0.0.1 - - [27/Dec/2021 20:35:20] "[35m[1mPOST /pay HTTP/1.1[0m" 500 -
+[2021-12-27 20:35:49] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-27 20:35:49] [INFO]  * Restarting with stat
+[2021-12-27 20:35:50] [WARNING]  * Debugger is active!
+[2021-12-27 20:35:50] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-27 20:35:55] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-27 20:35:58] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-27 20:35:58] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00002
+[2021-12-27 20:35:58] [INFO] SELECT * FROM user WHERE u_id = 00001
+[2021-12-27 20:35:58] [INFO] 127.0.0.1 - - [27/Dec/2021 20:35:58] "POST /pay HTTP/1.1" 200 -
+[2021-12-27 20:36:06] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00001
+[2021-12-27 20:36:06] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00001
+[2021-12-27 20:36:06] [INFO] SELECT * FROM user WHERE u_id = 00001
+[2021-12-27 20:36:06] [INFO] 127.0.0.1 - - [27/Dec/2021 20:36:06] "POST /pay HTTP/1.1" 200 -
+[2021-12-27 20:36:36] [INFO] SELECT * FROM PRODUCT
+[2021-12-27 20:36:36] [INFO] 127.0.0.1 - - [27/Dec/2021 20:36:36] "GET /home HTTP/1.1" 200 -
+[2021-12-27 20:36:37] [INFO] SELECT * FROM shopping_cart WHERE u_id = 00001
+[2021-12-27 20:36:37] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00001
+[2021-12-27 20:36:37] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-27 20:36:37] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-27 20:36:37] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-27 20:36:37] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-27 20:36:37] [INFO] 127.0.0.1 - - [27/Dec/2021 20:36:37] "GET /shoppingCart?u_id=00001 HTTP/1.1" 200 -
+[2021-12-27 20:36:54] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:36:54] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00007
+[2021-12-27 20:36:54] [INFO] SELECT * FROM user WHERE u_id = 00001
+[2021-12-27 20:36:54] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-27 20:36:54] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:36:54] [INFO] SELECT price FROM product WHERE p_id = 00007
+[2021-12-27 20:36:54] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00007
+[2021-12-27 20:36:54] [INFO] UPDATE user SET money = money - 796.00 where u_id = 00001
+[2021-12-27 20:36:54] [INFO] INSERT INTO order_list VALUES(00001,00007,4,796.00)
+[2021-12-27 20:36:54] [INFO] 127.0.0.1 - - [27/Dec/2021 20:36:54] "POST /pay HTTP/1.1" 200 -
+[2021-12-27 20:38:23] [INFO] SELECT * FROM shopping_cart WHERE u_id = 00001
+[2021-12-27 20:38:23] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00001
+[2021-12-27 20:38:23] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-27 20:38:23] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-27 20:38:23] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-27 20:38:23] [INFO] 127.0.0.1 - - [27/Dec/2021 20:38:23] "GET /shoppingCart?u_id=00001 HTTP/1.1" 200 -

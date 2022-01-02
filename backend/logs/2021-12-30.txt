@@ -1,0 +1,131 @@
+[2021-12-30 00:01:08] [WARNING]  * Debugger is active!
+[2021-12-30 00:01:08] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:01:16] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:03:19] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-30 00:03:20] [WARNING]  * Debugger is active!
+[2021-12-30 00:03:21] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:03:27] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:03:40] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-30 00:03:42] [WARNING]  * Debugger is active!
+[2021-12-30 00:03:42] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:03:48] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:05:33] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\controller\\control.py', reloading
+[2021-12-30 00:05:34] [WARNING]  * Debugger is active!
+[2021-12-30 00:05:34] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:05:40] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:05:45] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:05:45] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:05:45] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:05:45] [INFO] 127.0.0.1 - - [30/Dec/2021 00:05:45] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:08:36] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-30 00:08:37] [WARNING]  * Debugger is active!
+[2021-12-30 00:08:37] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:08:43] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:10:43] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-30 00:10:44] [WARNING]  * Debugger is active!
+[2021-12-30 00:10:44] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:10:51] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:12:12] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:12:12] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-30 00:12:12] [INFO] SELECT price FROM product WHERE p_id = 00002
+[2021-12-30 00:12:12] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:12:12] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-30 00:12:12] [INFO] SELECT price FROM product WHERE p_id = 00008
+[2021-12-30 00:12:12] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:12:12] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:12:12] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:12:12] [INFO] 127.0.0.1 - - [30/Dec/2021 00:12:12] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:12:59] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\app.py', reloading
+[2021-12-30 00:13:00] [WARNING]  * Debugger is active!
+[2021-12-30 00:13:00] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:13:06] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:13:10] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:13:10] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-30 00:13:10] [INFO] SELECT price FROM product WHERE p_id = 00002
+[2021-12-30 00:13:10] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:13:10] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-30 00:13:10] [INFO] SELECT price FROM product WHERE p_id = 00008
+[2021-12-30 00:13:10] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:13:10] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:13:10] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:13:10] [INFO] 127.0.0.1 - - [30/Dec/2021 00:13:10] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:13:49] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:13:49] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-30 00:13:49] [INFO] SELECT price FROM product WHERE p_id = 00002
+[2021-12-30 00:13:49] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+[2021-12-30 00:13:49] [INFO] UPDATE user SET money = money - 1998.00 where u_id = 00001
+[2021-12-30 00:13:49] [INFO] UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00002
+[2021-12-30 00:13:49] [INFO] INSERT INTO order_list VALUES(00001,00002,2,1998.00)
+[2021-12-30 00:13:49] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:13:49] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-30 00:13:49] [INFO] SELECT price FROM product WHERE p_id = 00008
+[2021-12-30 00:13:49] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+[2021-12-30 00:13:49] [INFO] UPDATE user SET money = money - 250.00 where u_id = 00001
+[2021-12-30 00:13:49] [INFO] UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00008
+[2021-12-30 00:13:49] [INFO] INSERT INTO order_list VALUES(00001,00008,2,250.00)
+[2021-12-30 00:13:49] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:13:49] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-30 00:13:49] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:13:49] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-30 00:13:49] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:13:49] [INFO] 127.0.0.1 - - [30/Dec/2021 00:13:49] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:15:07] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:15:07] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:15:07] [INFO] SELECT price FROM product WHERE p_id = 00009
+[2021-12-30 00:15:07] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:15:07] [INFO] UPDATE user SET money = money - 266.00 where u_id = 00001
+[2021-12-30 00:15:07] [INFO] UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00009
+[2021-12-30 00:15:08] [INFO] 127.0.0.1 - - [30/Dec/2021 00:15:08] "[35m[1mPOST /getOrderList HTTP/1.1[0m" 500 -
+[2021-12-30 00:20:36] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-30 00:20:37] [WARNING]  * Debugger is active!
+[2021-12-30 00:20:38] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:20:43] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:21:02] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:21:02] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:21:02] [INFO] 127.0.0.1 - - [30/Dec/2021 00:21:02] "[35m[1mPOST /getOrderList HTTP/1.1[0m" 500 -
+[2021-12-30 00:22:07] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:22:07] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:22:07] [INFO] SELECT price FROM product WHERE p_id = 00009
+[2021-12-30 00:22:07] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:22:07] [INFO] UPDATE user SET money = money - 266.00 where u_id = 00001
+[2021-12-30 00:22:07] [INFO] UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00009
+[2021-12-30 00:22:07] [INFO] SELECT * FROM order_list where u_id=00001 AND p_id = 00009
+[2021-12-30 00:22:07] [INFO] UPDATE order_list SET number = number + 2 WHERE u_id=00001 AND p_id=00009
+[2021-12-30 00:22:07] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:22:07] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-30 00:22:07] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:22:07] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-30 00:22:07] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:22:07] [INFO] 127.0.0.1 - - [30/Dec/2021 00:22:07] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:23:48] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-30 00:23:49] [WARNING]  * Debugger is active!
+[2021-12-30 00:23:50] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:23:55] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:24:30] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\models\\DBconnect.py', reloading
+[2021-12-30 00:24:31] [WARNING]  * Debugger is active!
+[2021-12-30 00:24:32] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:24:37] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-30 00:25:16] [INFO] SELECT money FROM user WHERE u_id = 00001
+[2021-12-30 00:25:16] [INFO] SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:25:16] [INFO] SELECT price FROM product WHERE p_id = 00009
+[2021-12-30 00:25:16] [INFO] DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+[2021-12-30 00:25:16] [INFO] UPDATE user SET money = money - 266.00 where u_id = 00001
+[2021-12-30 00:25:16] [INFO] UPDATE product SET sold = sold + 2,remain = remain - 2 where p_id = 00009
+[2021-12-30 00:25:16] [INFO] SELECT * FROM order_list where u_id=00001 AND p_id = 00009
+[2021-12-30 00:25:16] [INFO] UPDATE order_list SET number = number + 2 WHERE u_id=00001 AND p_id=00009
+[2021-12-30 00:25:16] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:25:16] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-30 00:25:16] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:25:16] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-30 00:25:16] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:25:16] [INFO] 127.0.0.1 - - [30/Dec/2021 00:25:16] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:26:09] [INFO] SELECT * FROM order_list WHERE u_id = 00001
+[2021-12-30 00:26:09] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00002
+[2021-12-30 00:26:09] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00007
+[2021-12-30 00:26:09] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00008
+[2021-12-30 00:26:09] [INFO] SELECT name, price, picture_path FROM product WHERE p_id = 00009
+[2021-12-30 00:26:09] [INFO] 127.0.0.1 - - [30/Dec/2021 00:26:09] "POST /getOrderList HTTP/1.1" 200 -
+[2021-12-30 00:26:41] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\app.py', reloading
+[2021-12-30 00:26:43] [WARNING]  * Debugger is active!
+[2021-12-30 00:26:43] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-30 00:26:49] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)

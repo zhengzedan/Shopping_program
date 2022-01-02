@@ -1,0 +1,44 @@
+[2021-12-28 01:04:43] [INFO]  * Restarting with stat
+[2021-12-28 01:04:44] [WARNING]  * Debugger is active!
+[2021-12-28 01:04:44] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:04:52] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-28 01:04:55] [INFO] SELECT * FROM collect WHERE u_id = 00001
+[2021-12-28 01:04:55] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00003
+[2021-12-28 01:04:55] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00005
+[2021-12-28 01:04:55] [INFO] 127.0.0.1 - - [28/Dec/2021 01:04:55] "GET /collect?u_id=00001 HTTP/1.1" 200 -
+[2021-12-28 01:05:13] [INFO]  * Detected change in 'D:\\study\\数据库系统原理\\大作业\\backend\\controller\\control.py', reloading
+[2021-12-28 01:05:13] [INFO]  * Restarting with stat
+[2021-12-28 01:05:14] [WARNING]  * Debugger is active!
+[2021-12-28 01:05:14] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:05:26] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-28 01:05:29] [INFO] SELECT * FROM collect WHERE u_id = 00001
+[2021-12-28 01:05:29] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00003
+[2021-12-28 01:05:29] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00005
+[2021-12-28 01:05:29] [INFO] 127.0.0.1 - - [28/Dec/2021 01:05:29] "GET /collect?u_id=00001 HTTP/1.1" 200 -
+[2021-12-28 01:13:50] [INFO]  * Detected change in 'D:\\study\\数据库系统原理\\大作业\\backend\\controller\\control.py', reloading
+[2021-12-28 01:13:50] [INFO]  * Restarting with stat
+[2021-12-28 01:13:52] [WARNING]  * Debugger is active!
+[2021-12-28 01:13:52] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:14:04] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-28 01:14:44] [INFO]  * Detected change in 'D:\\study\\数据库系统原理\\大作业\\backend\\app.py', reloading
+[2021-12-28 01:14:45] [INFO]  * Restarting with stat
+[2021-12-28 01:14:46] [WARNING]  * Debugger is active!
+[2021-12-28 01:14:46] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:14:51] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-28 01:15:00] [INFO]  * Detected change in 'D:\\study\\数据库系统原理\\大作业\\backend\\controller\\control.py', reloading
+[2021-12-28 01:15:00] [INFO]  * Restarting with stat
+[2021-12-28 01:20:08] [INFO]  * Restarting with stat
+[2021-12-28 01:20:09] [WARNING]  * Debugger is active!
+[2021-12-28 01:20:09] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:20:12] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-28 01:20:16] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00003
+[2021-12-28 01:20:16] [INFO] SELECT * FROM collect WHERE u_id=00001 AND p_id=00003
+[2021-12-28 01:20:16] [INFO] 127.0.0.1 - - [28/Dec/2021 01:20:16] "GET /getDetail?u_id=00001&p_id=00003 HTTP/1.1" 200 -
+[2021-12-28 01:20:25] [INFO] SELECT * FROM PRODUCT WHERE p_id = 00001
+[2021-12-28 01:20:25] [INFO] SELECT * FROM collect WHERE u_id=00001 AND p_id=00001
+[2021-12-28 01:20:25] [INFO] 127.0.0.1 - - [28/Dec/2021 01:20:25] "GET /getDetail?u_id=00001&p_id=00001 HTTP/1.1" 200 -
+[2021-12-28 01:37:01] [INFO]  * Detected change in 'D:\\study\\数据库系统原理\\大作业\\backend\\models\\DBconnect.py', reloading
+[2021-12-28 01:37:02] [INFO]  * Restarting with stat
+[2021-12-28 01:37:04] [WARNING]  * Debugger is active!
+[2021-12-28 01:37:04] [INFO]  * Debugger PIN: 678-417-928
+[2021-12-28 01:37:17] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)

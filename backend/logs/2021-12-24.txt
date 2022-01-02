@@ -1,0 +1,15 @@
+[2021-12-24 22:30:14] [INFO]  * Restarting with stat
+[2021-12-24 22:30:15] [WARNING]  * Debugger is active!
+[2021-12-24 22:30:15] [INFO]  * Debugger PIN: 116-885-319
+[2021-12-24 22:30:22] [INFO]  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+[2021-12-24 22:34:21] [INFO] 127.0.0.1 - - [24/Dec/2021 22:34:21] "[31m[1mPOST /login?u_id=normal_user&u_pass=123 HTTP/1.1[0m" 405 -
+[2021-12-24 22:35:57] [INFO] 127.0.0.1 - - [24/Dec/2021 22:35:57] "[31m[1mPOST /login?u_id=00001&u_pass=123 HTTP/1.1[0m" 405 -
+[2021-12-24 22:36:30] [INFO] SELECT u_pass FROM user WHERE u_id=00001
+[2021-12-24 22:36:30] [INFO] 127.0.0.1 - - [24/Dec/2021 22:36:30] "GET /login?u_id=00001&u_pass=123 HTTP/1.1" 200 -
+[2021-12-24 23:57:30] [INFO] 127.0.0.1 - - [24/Dec/2021 23:57:30] "[31m[1mPOST /home HTTP/1.1[0m" 405 -
+[2021-12-24 23:57:39] [INFO] SELECT * FROM PRODUCT
+[2021-12-24 23:57:39] [INFO] 127.0.0.1 - - [24/Dec/2021 23:57:39] "GET /home HTTP/1.1" 200 -
+[2021-12-25 00:04:00] [INFO]  * Detected change in 'D:\\study\\Êý¾Ý¿âÏµÍ³Ô­Àí\\´ó×÷Òµ\\backend\\app.py', reloading
+[2021-12-25 00:04:00] [INFO]  * Restarting with stat
+[2021-12-25 00:53:20] [INFO]  * Restarting with stat
+[2021-12-25 00:53:40] [INFO]  * Restarting with stat

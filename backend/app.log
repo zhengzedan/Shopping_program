@@ -1,0 +1,79 @@
+2021-12-30 00:05:45,454 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:05:45,467 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:05:45,469 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:12:12,156 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:12:12,158 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+2021-12-30 00:12:12,161 - app.py - INFO - SELECT price FROM product WHERE p_id = 00002
+2021-12-30 00:12:12,163 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:12:12,164 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+2021-12-30 00:12:12,166 - app.py - INFO - SELECT price FROM product WHERE p_id = 00008
+2021-12-30 00:12:12,181 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:12:12,185 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:12:12,189 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:13:10,365 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:13:10,367 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+2021-12-30 00:13:10,368 - app.py - INFO - SELECT price FROM product WHERE p_id = 00002
+2021-12-30 00:13:10,369 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:13:10,371 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+2021-12-30 00:13:10,374 - app.py - INFO - SELECT price FROM product WHERE p_id = 00008
+2021-12-30 00:13:10,378 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:13:10,381 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:13:10,383 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:13:49,707 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:13:49,710 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+2021-12-30 00:13:49,713 - app.py - INFO - SELECT price FROM product WHERE p_id = 00002
+2021-12-30 00:13:49,719 - app.py - INFO - DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00002
+2021-12-30 00:13:49,725 - app.py - INFO - UPDATE user SET money = money - 1998.00 where u_id = 00001
+2021-12-30 00:13:49,733 - app.py - INFO - UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00002
+2021-12-30 00:13:49,741 - app.py - INFO - INSERT INTO order_list VALUES(00001,00002,2,1998.00)
+2021-12-30 00:13:49,743 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:13:49,746 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+2021-12-30 00:13:49,748 - app.py - INFO - SELECT price FROM product WHERE p_id = 00008
+2021-12-30 00:13:49,753 - app.py - INFO - DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00008
+2021-12-30 00:13:49,759 - app.py - INFO - UPDATE user SET money = money - 250.00 where u_id = 00001
+2021-12-30 00:13:49,765 - app.py - INFO - UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00008
+2021-12-30 00:13:49,770 - app.py - INFO - INSERT INTO order_list VALUES(00001,00008,2,250.00)
+2021-12-30 00:13:49,774 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:13:49,779 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00002
+2021-12-30 00:13:49,781 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:13:49,784 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00008
+2021-12-30 00:13:49,786 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:15:07,957 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:15:07,959 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:15:07,961 - app.py - INFO - SELECT price FROM product WHERE p_id = 00009
+2021-12-30 00:15:07,965 - app.py - INFO - DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:15:07,970 - app.py - INFO - UPDATE user SET money = money - 266.00 where u_id = 00001
+2021-12-30 00:15:07,975 - app.py - INFO - UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00009
+2021-12-30 00:21:02,460 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:21:02,463 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:22:07,574 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:22:07,578 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:22:07,580 - app.py - INFO - SELECT price FROM product WHERE p_id = 00009
+2021-12-30 00:22:07,585 - app.py - INFO - DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:22:07,590 - app.py - INFO - UPDATE user SET money = money - 266.00 where u_id = 00001
+2021-12-30 00:22:07,596 - app.py - INFO - UPDATE product SET sold = sold + 1,remain = remain - 1 where p_id = 00009
+2021-12-30 00:22:07,599 - app.py - INFO - SELECT * FROM order_list where u_id=00001 AND p_id = 00009
+2021-12-30 00:22:07,603 - app.py - INFO - UPDATE order_list SET number = number + 2 WHERE u_id=00001 AND p_id=00009
+2021-12-30 00:22:07,622 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:22:07,631 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00002
+2021-12-30 00:22:07,633 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:22:07,635 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00008
+2021-12-30 00:22:07,637 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:25:16,545 - app.py - INFO - SELECT money FROM user WHERE u_id = 00001
+2021-12-30 00:25:16,547 - app.py - INFO - SELECT number FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:25:16,549 - app.py - INFO - SELECT price FROM product WHERE p_id = 00009
+2021-12-30 00:25:16,555 - app.py - INFO - DELETE FROM shopping_cart WHERE u_id = 00001 AND p_id = 00009
+2021-12-30 00:25:16,561 - app.py - INFO - UPDATE user SET money = money - 266.00 where u_id = 00001
+2021-12-30 00:25:16,566 - app.py - INFO - UPDATE product SET sold = sold + 2,remain = remain - 2 where p_id = 00009
+2021-12-30 00:25:16,570 - app.py - INFO - SELECT * FROM order_list where u_id=00001 AND p_id = 00009
+2021-12-30 00:25:16,575 - app.py - INFO - UPDATE order_list SET number = number + 2 WHERE u_id=00001 AND p_id=00009
+2021-12-30 00:25:16,578 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:25:16,581 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00002
+2021-12-30 00:25:16,583 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:25:16,586 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00008
+2021-12-30 00:25:16,589 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009
+2021-12-30 00:26:09,113 - app.py - INFO - SELECT * FROM order_list WHERE u_id = 00001
+2021-12-30 00:26:09,119 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00002
+2021-12-30 00:26:09,120 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00007
+2021-12-30 00:26:09,122 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00008
+2021-12-30 00:26:09,123 - app.py - INFO - SELECT name, price, picture_path FROM product WHERE p_id = 00009

@@ -2,4 +2,6 @@
 
 仿电商平台购物微信小程序
 
-后端 url：http://localhost:8000/
+后端代码仓库
+
+url：http://localhost:8000/
